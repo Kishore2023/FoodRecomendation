@@ -132,6 +132,11 @@ WebApp Creation – Streamlit version 1.14.0
 Microsoft Azure – For Global requirements of the Webpage
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**9.** **Exploratory Data Analysis [EDA]**
+
+Performed EDA on the Structured  Datasets:
+
+![image](https://user-images.githubusercontent.com/114608753/201950139-13fb9b7b-df27-482a-ad6f-c4a95fc4a67e.png)
 
 
 
