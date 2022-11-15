@@ -46,7 +46,9 @@ The systems used to build the model.
 
 **Backend stacks**
 Programming language – Python
+
 Application Used : Spyder, Microsoft Visual Studio, Docker image creator.
+
 Library Used :  Pandas, Pickle, Streamlit, NumPy, Simple Imputer, TfidfVectorizer, Linear Kernel
 Data Preparation – Anaconda (Spyder & Jupyter notebook)
 Data Storage- Microsoft Azure data storage.
