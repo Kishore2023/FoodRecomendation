@@ -82,7 +82,7 @@ Collecting the data from the customer based on survey responses.
 Understanding the requirements of the objective and gathering those to provide the best output.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**6.** **Data Information
+**6.** **Data Information**
 
 Data gathering from the primary source is in the form of structured data. 
 
@@ -92,5 +92,6 @@ Survey Form and Data gathering has been done based on these Three Criteria :
 
 ![image](https://user-images.githubusercontent.com/114608753/201947203-8dbadef5-2318-425b-9678-a0dedf87c2eb.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
