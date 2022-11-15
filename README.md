@@ -29,8 +29,10 @@ The business objective to build a recommendation model to predict the recommende
 **3.** **CRISP-ML(Q) Methodology**
 
 1a. Business Understanding:  Understanding the Business Objects & Constraints for the Success Criteria
+
 1b. Data Understanding:  Understanding the Data Types which is collected.
-2. Data Preparation: Data being Cleansed and explored for feature engineering 
+
+2. Data Preparation: Data being Cleansed and explored for feature engineering 
 
 3. Model Building: Unsupervised Learning based model has been built - Recommendation System. 
 
@@ -50,12 +52,17 @@ Programming language – Python
 Application Used : Spyder, Microsoft Visual Studio, Docker image creator.
 
 Library Used :  Pandas, Pickle, Streamlit, NumPy, Simple Imputer, TfidfVectorizer, Linear Kernel
+
 Data Preparation – Anaconda (Spyder & Jupyter notebook)
+
 Data Storage- Microsoft Azure data storage.
+
 Model Building - Microsoft Azure Machine Learning Workspace
 
 **Frontend stacks**
 App Development : Steamlit Webapp
+
 Model Deployment : Microsoft Azure Web Services 
+
 Monitoring : Azure Monitoring & Maintenance
 
