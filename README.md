@@ -1,6 +1,6 @@
 # FoodRecomendation   -
 
-**1. ****PROJECT OVERVIEW**
+**1.** **PROJECT OVERVIEW**
 
 Recommendation system build for the multi – cuisine restaurant.
 Model build for existing and New Customer based on previous order and New customer based on food. 
@@ -65,4 +65,7 @@ App Development : Steamlit Webapp
 Model Deployment : Microsoft Azure Web Services 
 
 Monitoring : Azure Monitoring & Maintenance
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
