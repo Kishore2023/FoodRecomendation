@@ -19,7 +19,9 @@ Predictive analysis helps decision makers in designing new recommendation strate
 **2.** **Business Objective:** 
 
 The business objective to build a recommendation model to predict the recommended food based on customer exiting details or  food mostly preferred by other customers for a multi cuisine restaurant.
+
   Minimize:  Customer non - preferred food
+  
   Maximize:  Preferred food options to customer to increase the profits in business
 
 **Business Constraints:** 
