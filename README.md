@@ -138,6 +138,7 @@ Performed EDA on the Structured  Datasets:
 
 ![image](https://user-images.githubusercontent.com/114608753/201950139-13fb9b7b-df27-482a-ad6f-c4a95fc4a67e.png)
 
-![image](https://user-images.githubusercontent.com/114608753/201950337-ab219dca-b8b0-49bc-be05-9df21f9fe501.png)
+![image](https://user-images.githubusercontent.com/114608753/201950522-bb4b1174-b701-4f86-91c7-52b48b1da204.png)
+
 
 
