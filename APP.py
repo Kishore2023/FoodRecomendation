@@ -4,7 +4,7 @@ import pickle
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.impute import SimpleImputer
+#from sklearn.impute import SimpleImputer
 from sklearn.feature_extraction.text import TfidfVectorizer 
 from sklearn.metrics.pairwise import linear_kernel
 
