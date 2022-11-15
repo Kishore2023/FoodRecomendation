@@ -93,5 +93,6 @@ Survey Form and Data gathering has been done based on these Three Criteria :
 ![image](https://user-images.githubusercontent.com/114608753/201947203-8dbadef5-2318-425b-9678-a0dedf87c2eb.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7. Data Dictionary ![image](https://user-images.githubusercontent.com/114608753/201947972-f289d384-ce27-4b02-b8b8-49157dfc17bc.png)
 
 
