@@ -1,6 +1,6 @@
 # FoodRecomendation   -
 
-PROJECT OVERVIEW
+**1. ****PROJECT OVERVIEW**
 
 Recommendation system build for the multi – cuisine restaurant.
 Model build for existing and New Customer based on previous order and New customer based on food. 
@@ -10,23 +10,23 @@ Storing the data in Azure tools. And performing the Recommendation System based 
 The prediction would be suggesting  the recommended food to the customer. 
 This will be automatically performed based on the Machine learning model.
 
-PROJECT SCOPE
+**PROJECT SCOPE**
 
 The Vendor can efficiently predict customer recommended food orders which is faster, more efficiently and cost effectively based on historical data. 
 Predictive analysis helps decision makers in designing new recommendation strategies based on food orders which will help in customer improvement as well as overall growth to the business.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Business Objective: 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**2.** **Business Objective:** 
 
 The business objective to build a recommendation model to predict the recommended food based on customer exiting details or  food mostly preferred by other customers for a multi cuisine restaurant.
   Minimize:  Customer non - preferred food
   Maximize:  Preferred food options to customer to increase the profits in business
 
-Business Constraints: 
+**Business Constraints:** 
 
 	Recommending the customer's food based on previous order.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-CRISP-ML(Q) Methodology
+**3.** **CRISP-ML(Q) Methodology**
 
 1a. Business Understanding:  Understanding the Business Objects & Constraints for the Success Criteria
 1b. Data Understanding:  Understanding the Data Types which is collected.
@@ -40,7 +40,7 @@ CRISP-ML(Q) Methodology
 
 6. Monitoring & Maintenance: Should be done using the Azure Monitoring Application
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Technical Stacks
+**4.** **Technical Stacks**
 
 The systems used to build the model.
 
