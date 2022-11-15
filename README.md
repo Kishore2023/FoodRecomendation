@@ -92,7 +92,46 @@ Survey Form and Data gathering has been done based on these Three Criteria :
 
 ![image](https://user-images.githubusercontent.com/114608753/201947203-8dbadef5-2318-425b-9678-a0dedf87c2eb.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------**7.** **Data Dictionary**
+
+**Restaurant Customer Information**
+
+![image](https://user-images.githubusercontent.com/114608753/201948287-4b88d798-8f32-4da9-9669-ea492ad4cf9f.png)
+
+**Restaurant Features about Customer**
+
+![image](https://user-images.githubusercontent.com/114608753/201948511-104fadc4-39ab-4f03-8567-b50a8c52abf6.png)
+
+**Customer Bill & Rating**
+
+![image](https://user-images.githubusercontent.com/114608753/201948720-7b22ab70-046f-41d0-8487-f293d1e6a704.png)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-7. Data Dictionary ![image](https://user-images.githubusercontent.com/114608753/201947972-f289d384-ce27-4b02-b8b8-49157dfc17bc.png)
+**8.** **System Requirements**
+
+Operating System: Windows 10
+
+Anaconda Navigator System Requirements: Hardware requirements
+
+CPU: 2 x 64-bit 2.8 GHz 8.00 GT/s CPUs.
+RAM: 32 GB (or 16 GB of 1600 MHz DDR3 RAM)
+Storage: 300 GB.
+
+Anaconda Navigator Features Used:  Software requirements
+
+Spyder
+Microsoft Visual Studio
+Docker
+
+Loading the Image in a Container : Docker Hub version 20.10.20
+
+Public Repository : GitHub, Streamlit, Heruko
+
+WebApp Creation – Streamlit version 1.14.0 
+
+Microsoft Azure – For Global requirements of the Webpage
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
